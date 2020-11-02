@@ -2,9 +2,10 @@
 
 ## Structure
 
-* homepage
+[] homepage
   * picture
   * description
-* memes
+[] memes
 * joke FAQ
-* hours since Harshita last responded to a text
+  * how can we be as cool as you? etc
+* hours since she last responded to a text
